@@ -69,7 +69,7 @@ Spent around 4 hours reading up on the USB 3.0 standard, reviewing datasheets fo
 ![image](https://github.com/user-attachments/assets/a409ea61-b763-4040-92fb-fadf48635225)
 
 ## Day Five
-**2 hours**
+**3 hours**
 
 
 Quickly made the control PCB for the LEDS. This PCB has the ESP32 and the 5V buck converter to convert 15V to 5V.  
