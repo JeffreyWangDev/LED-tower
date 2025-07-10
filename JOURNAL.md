@@ -60,3 +60,20 @@ Read alot about USB-PD and different chips that I would need, will figure it out
 
 ![image](https://github.com/user-attachments/assets/3abfdad2-be8b-4125-80ea-9c9baf1d36c3)
 ![image](https://github.com/user-attachments/assets/2854e4d1-7dbd-424c-8ce3-1eef9f81a07d)
+
+## Day Four
+**8 hours**
+
+Spent around 4 hours reading up on the USB 3.0 standard, reviewing datasheets for PD source ICs, and searching for schematics to reference. In the end, it was all for nothing. I found a chip from an old design that supports USB PD that JLCPCB can actually make. This was a big problem because many of the newer USB-PD control ICs are not on LCSC, meaning that I could not use JLC to assemble the PCBs. This IC combines both the PD delivery and the buck converter, which makes it very easy to wire up. I made a PCB for that, and I also read the CNC guidelines and restrictions, and I changed the design for the front piece to allow for it to be CNCed. CNC aluminum is so much better looking and stronger than 3d printed parts. 
+![image](https://github.com/user-attachments/assets/2292479b-f594-45d3-aca1-f433ae9dd5e6)
+![image](https://github.com/user-attachments/assets/a409ea61-b763-4040-92fb-fadf48635225)
+
+## Day Five
+**2 hours**
+
+
+Quickly made the control PCB for the LEDS. This PCB has the ESP32 and the 5V buck converter to convert 15V to 5V.  
+This can also work as a dev board if needed.
+![image](https://github.com/user-attachments/assets/e84e32f3-4c62-4bf0-8277-8c2ad3e505e8)
+![image](https://github.com/user-attachments/assets/265e89b8-681c-4fce-917a-61d5948ce794)
+
