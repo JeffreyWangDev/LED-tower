@@ -77,3 +77,28 @@ This can also work as a dev board if needed.
 ![image](https://github.com/user-attachments/assets/e84e32f3-4c62-4bf0-8277-8c2ad3e505e8)
 ![image](https://github.com/user-attachments/assets/265e89b8-681c-4fce-917a-61d5948ce794)
 
+## Day Six
+**4 hours**
+
+Remade the base PCB to have both usb-pd and control into one to save on costs. I also worked on the top tower, made a back, and updated holes/more. 
+
+
+<img width="383" height="1067" alt="image" src="https://github.com/user-attachments/assets/fd0135da-9cf7-4355-b43e-0925da61e0f6" />
+<img width="601" height="1049" alt="image" src="https://github.com/user-attachments/assets/1fb2c76f-4852-43e4-b06d-7ba5009e1581" />
+
+
+
+## Day Seven
+**6 Hours**
+
+Made the base of the tower. This has all the control and power for the LEDs + USB-C ports. 
+
+
+<img width="1588" height="838" alt="image" src="https://github.com/user-attachments/assets/6377c380-4c94-497e-889a-aac9d696da3e" />
+<img width="1282" height="552" alt="image" src="https://github.com/user-attachments/assets/725896af-79f0-40a0-b1e1-d3c96f997664" />
+
+
+<img width="597" height="357" alt="image" src="https://github.com/user-attachments/assets/6b9458b3-beed-4add-a0cb-492d7335e645" />
+<img width="1396" height="854" alt="image" src="https://github.com/user-attachments/assets/90cfe158-01e9-4e87-8fac-202b8537fac7" />
+<img width="1372" height="1052" alt="image" src="https://github.com/user-attachments/assets/bae18e9b-a601-4988-a68e-7bd69d50c8c0" />
+
