@@ -106,3 +106,10 @@ Made the base of the tower. This has all the control and power for the LEDs + US
 <img width="1396" height="854" alt="image" src="https://github.com/user-attachments/assets/90cfe158-01e9-4e87-8fac-202b8537fac7" />
 <img width="1372" height="1052" alt="image" src="https://github.com/user-attachments/assets/bae18e9b-a601-4988-a68e-7bd69d50c8c0" />
 
+
+## Day Eight + Nine
+**12 Hours**
+
+Today, I took a small model of the tower that I built out of wood and some random pieces of leftover polycarbonate and used it to test out the mounting for the acrylic. My fears about the glue were correct, and the wood is not strong enough to hold up the acrylic. I don't have design files cause I kinda just bought wood and acrylic with a hacksaw, but I attached photos down below. A problem that I ran into was not accounting for some small differences in the glue, but the CNCed part with nuts and bolts should not have the same problem. I never got it to power up, probably due to my burning the PSU and the LED controller that I had. 
+
+<img width="403" height="611" alt="image" src="https://github.com/user-attachments/assets/53ab6422-9b76-48ae-af2d-cfa00ed96493" />
