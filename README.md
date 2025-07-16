@@ -38,4 +38,6 @@ BOM:
 | [M3 by 6](https://www.amazon.com/Socket-Screws-Bolts-Thread-100pcs/dp/B07CMRQ3TB?th=1)  | $7 |
 | [M6 by 12](https://www.amazon.com/M6-Countersunk-Socket-Screws-Furniture/dp/B0CKW4MHGZ/)  | $8 |
 | [M6 by 12](https://www.amazon.com/Stainless-Fasteners-Replacement-M6-1-0mm-Hexagonal/dp/B0CZQRH3L2)  | $6 |
+| [15v psu](https://www.amazon.com/COOLM-100-240V-Supply-Adapter-Converter/dp/B07CBTWT1V)  | $25 |
+| [Barrel jacks](https://www.amazon.com/FILSHU-Socket-Threaded-Connector-Adapter/dp/B08271YLXZ/)  | $8 |
 
