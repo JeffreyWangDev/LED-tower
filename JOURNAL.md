@@ -1,7 +1,9 @@
-![image](https://github.com/user-attachments/assets/44bf7d58-67c6-4583-8fcc-4a8b2e01098c)title: LED-Tower
+title: LED-Tower
 author: Jeffrey
 description: Simple, good looking led light 
 created_at: 7-4-2025
+
+
 
 
 ## Day One
