@@ -44,4 +44,5 @@ BOM:
 | [M6 by 12](https://www.amazon.com/Stainless-Fasteners-Replacement-M6-1-0mm-Hexagonal/dp/B0CZQRH3L2)  | $6 |
 | [15v psu](https://www.amazon.com/COOLM-100-240V-Supply-Adapter-Converter/dp/B07CBTWT1V)  | $25 |
 | [Barrel jacks](https://www.amazon.com/FILSHU-Socket-Threaded-Connector-Adapter/dp/B08271YLXZ/)  | $8 |
-
+| [Headers](https://www.amazon.com/dp/B0B42G18JH)  | $10 |
+| [Antenna](https://www.amazon.com/dp/B0B42G18JH)  | $10 |
