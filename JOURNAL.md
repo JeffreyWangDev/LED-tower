@@ -113,3 +113,24 @@ Made the base of the tower. This has all the control and power for the LEDs + US
 Today, I took a small model of the tower that I built out of wood and some random pieces of leftover polycarbonate and used it to test out the mounting for the acrylic. My fears about the glue were correct, and the wood is not strong enough to hold up the acrylic. I don't have design files cause I kinda just bought wood and acrylic with a hacksaw, but I attached photos down below. A problem that I ran into was not accounting for some small differences in the glue, but the CNCed part with nuts and bolts should not have the same problem. I never got it to power up, probably due to my burning the PSU and the LED controller that I had. I also adjusted many tolerances in Onshape, took forever cause I set up my dimension wrong the first time.
 
 <img width="403" height="611" alt="image" src="https://github.com/user-attachments/assets/53ab6422-9b76-48ae-af2d-cfa00ed96493" />
+
+
+## Day Ten and Eleven
+**6 hours** 
+
+I went and bought the acrylic I need from Home Depot. I spent 2 hours, two important hours of my life inside that place. Why, you might ask? Well, I went through self-checkout and it didnt print me a receipt, so I needed to go back and forth with the customer service rep about getting one, and their system was down or something, so that was not possible. In the end, I ended up just returning the piece I just bought and bought it again from an actual human this time and got a receipt. Never doing that again. 
+
+Went over to a local makerspace to use their laser cutter. Cut 32 pieces out of the acrylic! 
+<img width="842" height="929" alt="image" src="https://github.com/user-attachments/assets/a322a774-6154-49e9-9d97-bcc95f5f88ef" />
+
+
+## Day Twelve
+**4 hours**
+
+I started to assemble the whole build! I first built up the base with the PCB, antenna, and the power socket. 
+<img width="824" height="1030" alt="image" src="https://github.com/user-attachments/assets/540abe03-0d14-4106-82ba-fda692e4b3a6" />
+I then started to put the acrylic in with two bolts and two nuts that go like shown below. This took way too long; it's so hard to get it right.
+
+<img width="827" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ed04d12-6e90-4798-9d45-384901480be3" />
+<img width="800" height="951" alt="image" src="https://github.com/user-attachments/assets/cbabadcd-c386-4232-b1d3-e9f071c78256" />
+
