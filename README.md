@@ -6,7 +6,12 @@ A easy to assemble, good looking, NON creaking acylic led light tower.
 
 https://cad.onshape.com/documents/002277c803df31649a501ead/w/61b45c9ab1050f526b4947af/e/f2e1a3ee0f85b37ee5d59af5
  https://oshwlab.com/jeffrey098765437/led-tower-pcb
+
+
+https://youtu.be/fUbneB5FwAk
  
+<img width="684" height="1110" alt="image" src="https://github.com/user-attachments/assets/9f03fcc4-01ec-4902-9f78-1a2506de4628" />
+
 ## Why??
 I always loved playing with lights. I love how it can show so much and look so cool in the process. While I have made many projects with LEDS in the past, I never made my own control board or a pcb for those leds. For this project, I want to develop an ESP32-based main board with a greater than 7 amp BEC for the LEDs, and 3-4 USB-C ports for charging with full USB 3.0 support. 
 
