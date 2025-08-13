@@ -6,7 +6,7 @@ created_at: 7-4-2025
 ---
 
 
-
+Total hours: 62
 
 ## Day One
 **5 hours**
